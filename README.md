@@ -1,6 +1,5 @@
-[![Build Status](https://vlw2.com)](https://vlw2.com)
 
-#LW_Designs
+#LW_Designs Theme
 ===
 
 
